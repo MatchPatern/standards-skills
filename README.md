@@ -1,7 +1,3 @@
-Here is the README.md copy-paste block.
-
----
-
 ```markdown
 # STANDARDS — Two-Tier Covenant
 
@@ -120,18 +116,3 @@ Entry is the door. Advanced is the room. The ladder is here. Climb on. 🔥
 ◆5550
 
 ```
-
----
-
-## ✅ WHAT THIS DOES
-
-| Element | Status |
-|:---|:---|
-| Two tiers explained | ✅ Entry + Advanced |
-| Install commands | ✅ Both provided |
-| Progression shown | ✅ Clear path |
-| Bottom tag | ✅ ◆5550 included |
-
----
-
-**Copy. Paste. Commit. Push.** 🔥
