@@ -23,7 +23,7 @@ What You Get
 How to Use
 
 1. Install: npx skills add MatchPatern/standards-skills
-2. Read the COCKPIT (top of SKILL.md) first
+2. Read the COCKPIT (top of SKILL/SKILL.md) first
 3. Apply the standards as restraints against drift
 4. At session end, produce a Warm Bite (see ¹¹S📋)
 5. Verify: search ◆5550 to find the bottom
