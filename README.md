@@ -33,9 +33,3 @@ How to Use
 ◆5550
 
 ```
-
----
-
-**That's it. One paste. One commit.**
-
-**Click "Commit new file" — done.** 🔥
